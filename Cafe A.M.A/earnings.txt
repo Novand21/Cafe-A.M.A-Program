@@ -1,0 +1,17 @@
+
+2024-12-07
+Order no 1 
+-----------------------------
+Transaction    Menu                     Jumlah         Total Harga    
+1              Espresso                 1              20000.00       
+-----------------------------
+Total Harga: 20000.00
+
+
+2024-12-07
+Order no 2 
+-----------------------------
+Transaction    Menu                     Jumlah         Total Harga    
+1              Espresso                 1              20000.00       
+-----------------------------
+Total Harga: 20000.00
